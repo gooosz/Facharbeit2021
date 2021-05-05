@@ -1,5 +1,5 @@
 # Facharbeit2021
-Verschlüsselung mit dem RSA-Verfahren
+Wie sicher ist das RSA-Verfahren?
 
-Facharbeit "Verschlüsselung mit dem RSA-Verfahren", von Len-Marvin Adler,
+Facharbeit "Wie sicher ist das RSA-Verfahren?", von Len-Marvin Adler,
 eingereicht im Fach Mathematik.
