@@ -22,7 +22,6 @@ helperFunctions.o: helperFunctions.cpp BigInt.hpp
 operators.o: operators.cpp BigInt.hpp
 	$(CC) $(FLAGS) -c operators.cpp -lm
 
-#g++ -Wall -g main.o typeConv.cpp Constructors.cpp helperFunctions.cpp operators.cpp print.cpp -o main
 
 #create a library
 lib: all
